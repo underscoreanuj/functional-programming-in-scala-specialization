@@ -1,0 +1,11 @@
+[debug] Packaging C:\Users\Anuj Singh\Desktop\Anuj\Courses\Functional Programming in Scala Specialization\HelloWorld\target\scala-2.13\helloworld_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	example
+[debug] 	  C:\Users\Anuj Singh\Desktop\Anuj\Courses\Functional Programming in Scala Specialization\HelloWorld\target\scala-2.13\classes\example
+[debug] 	example\Example$.class
+[debug] 	  C:\Users\Anuj Singh\Desktop\Anuj\Courses\Functional Programming in Scala Specialization\HelloWorld\target\scala-2.13\classes\example\Example$.class
+[debug] 	example\Example$delayedInit$body.class
+[debug] 	  C:\Users\Anuj Singh\Desktop\Anuj\Courses\Functional Programming in Scala Specialization\HelloWorld\target\scala-2.13\classes\example\Example$delayedInit$body.class
+[debug] 	example\Example.class
+[debug] 	  C:\Users\Anuj Singh\Desktop\Anuj\Courses\Functional Programming in Scala Specialization\HelloWorld\target\scala-2.13\classes\example\Example.class
+[debug] Done packaging.
