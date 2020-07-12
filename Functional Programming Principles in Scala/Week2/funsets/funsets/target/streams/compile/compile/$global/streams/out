@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anuj Singh\Desktop\Anuj\Courses\Functional Programming in Scala Specialization\Functional Programming Principles in Scala\Week2\funsets\funsets\src\main\scala\funsets\FunSets.scala:21:45: funsets.FunSets does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m  def singletonSet(elem: Int): FunSet = this(elem)[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

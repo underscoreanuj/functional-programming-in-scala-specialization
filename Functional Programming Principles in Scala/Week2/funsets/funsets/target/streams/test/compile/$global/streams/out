@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anuj Singh\Desktop\Anuj\Courses\Functional Programming in Scala Specialization\Functional Programming Principles in Scala\Week2\funsets\funsets\src\test\scala\funsets\FunSetSuite.scala:103:29: recursive value s1 needs type[0m
+[0m[[0m[31merror[0m] [0m[0m      val s1 = forall(union(s1, union(s3, s2)), (x: Int) => x%2 == 0)[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anuj Singh\Desktop\Anuj\Courses\Functional Programming in Scala Specialization\Functional Programming Principles in Scala\Week2\funsets\funsets\src\test\scala\funsets\FunSetSuite.scala:104:43: recursive value s2 needs type[0m
+[0m[[0m[31merror[0m] [0m[0m      val s2 = forall(union(s1, union(s3, s2)), (x: Int) => x > 0)[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

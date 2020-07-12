@@ -1,0 +1,30 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(funsets.FunSetSuite, sbt.ForkMain$AnnotatedFingerscan@1e8754a2, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mfilter returns a set of all elements that satisfy the given function[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mfilter returns a set of all elements that satisfy the given function[0m finished, took 0.083 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mexists returns a true if any element in set satisfies the given function else false[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mexists returns a true if any element in set satisfies the given function else false[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mmap returns a set transformed by applying the given function to each element of the set[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mmap returns a set transformed by applying the given function to each element of the set[0m finished, took 0.006 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36msingleton set one contains one[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36msingleton set one contains one[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mintersection contains all common elements if two sets[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mintersection contains all common elements if two sets[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36munion contains all elements of each set[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36munion contains all elements of each set[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mdifference contains all elements of (s1 union s2) that are not in (s3 union s2)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mdifference contains all elements of (s1 union s2) that are not in (s3 union s2)[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mforall returns a true if all elements in set satisfy the given function else false[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mforall returns a true if all elements in set satisfy the given function else false[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mcontains is implemented[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mcontains is implemented[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 9 total, 0.174s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 9 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 9, Failed 0, Errors 0, Passed 9[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	funsets.FunSetSuite[0m
