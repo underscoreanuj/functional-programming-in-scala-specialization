@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anuj Singh\Desktop\Anuj\Courses\Functional Programming in Scala Specialization\Functional Programming Principles in Scala\Week4\patmat\src\main\scala\patmat\Huffman.scala:77:14: value += is not a member of Map[Char,Int][0m
+[0m[[0m[31merror[0m] [0m[0m  Expression does not convert to assignment because receiver is not assignable.[0m
+[0m[[0m[31merror[0m] [0m[0m      memory += (char -> count)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
