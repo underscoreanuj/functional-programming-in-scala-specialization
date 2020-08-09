@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anuj Singh\Desktop\Anuj\Courses\Functional Programming in Scala Specialization\Functional Program Design in Scala\Week1\example\src\main\scala\example\Lists.scala:25:39: not enough arguments for method sum: (implicit num: scala.math.Numeric[B])B.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter num.[0m
+[0m[[0m[31merror[0m] [0m[0m  def sum(xs: List[Int]): Int = xs.sum()[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anuj Singh\Desktop\Anuj\Courses\Functional Programming in Scala Specialization\Functional Program Design in Scala\Week1\example\src\main\scala\example\Lists.scala:40:39: not enough arguments for method max: (implicit ord: scala.math.Ordering[B])Int.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter ord.[0m
+[0m[[0m[31merror[0m] [0m[0m  def max(xs: List[Int]): Int = xs.max()[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
