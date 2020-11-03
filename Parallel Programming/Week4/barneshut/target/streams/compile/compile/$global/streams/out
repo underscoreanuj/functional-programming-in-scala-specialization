@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anuj Singh\Desktop\Anuj\Courses\Functional Programming in Scala Specialization\Parallel Programming\Week4\barneshut\src\main\scala\barneshut\package.scala:113:20: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Seq[barneshut.package.Body] (in scala.collection) [0m
+[0m[[0m[31merror[0m] [0m[0m required: Seq[barneshut.package.Body] (in scala.collection.immutable) [0m
+[0m[[0m[31merror[0m] [0m[0m      else _insert(xs, b, size / 2, size / 4)[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
